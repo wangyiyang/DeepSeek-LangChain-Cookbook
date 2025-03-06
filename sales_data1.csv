@@ -1,0 +1,37 @@
+Date,Region,Product,Sales_Person,Units_Sold,Revenue,Customer_Satisfaction
+2023-01-15,North America,Laptop Pro,John Smith,45,67500,4.7
+2023-01-22,Europe,Smartphone X,Maria Garcia,78,39000,4.5
+2023-02-05,Asia,Tablet Ultra,Wei Zhang,56,22400,4.8
+2023-02-18,North America,Smartphone X,Susan Johnson,62,31000,4.2
+2023-03-03,Europe,Laptop Pro,Pierre Dupont,39,58500,4.6
+2023-03-15,Asia,Smart Watch,Hiroshi Tanaka,105,21000,4.4
+2023-04-02,North America,Tablet Ultra,Michael Brown,48,19200,4.3
+2023-04-18,Europe,Smart Watch,Anna Kowalski,87,17400,4.7
+2023-05-05,Asia,Laptop Pro,Li Wei,51,76500,4.9
+2023-05-20,North America,Smart Watch,David Miller,93,18600,4.5
+2023-06-08,Europe,Tablet Ultra,Sophie Martin,67,26800,4.6
+2023-06-22,Asia,Smartphone X,Ken Yamamoto,82,41000,4.3
+2023-07-10,North America,Laptop Pro,John Smith,58,87000,4.8
+2023-07-25,Europe,Smartphone X,Maria Garcia,91,45500,4.6
+2023-08-05,Asia,Tablet Ultra,Wei Zhang,64,25600,4.7
+2023-08-18,North America,Smart Watch,Susan Johnson,112,22400,4.5
+2023-09-03,Europe,Laptop Pro,Pierre Dupont,47,70500,4.9
+2023-09-17,Asia,Smartphone X,Hiroshi Tanaka,77,38500,4.4
+2023-10-02,North America,Tablet Ultra,Michael Brown,59,23600,4.6
+2023-10-20,Europe,Smart Watch,Anna Kowalski,98,19600,4.8
+2023-11-05,Asia,Laptop Pro,Li Wei,63,94500,4.7
+2023-11-22,North America,Smartphone X,David Miller,85,42500,4.5
+2023-12-08,Europe,Tablet Ultra,Sophie Martin,72,28800,4.6
+2023-12-20,Asia,Smart Watch,Ken Yamamoto,118,23600,4.7
+2024-01-05,North America,Laptop Pro,John Smith,52,78000,4.8
+2024-01-18,Europe,Smartphone X,Maria Garcia,88,44000,4.5
+2024-02-03,Asia,Tablet Ultra,Wei Zhang,69,27600,4.9
+2024-02-15,North America,Smart Watch,Susan Johnson,103,20600,4.4
+2024-03-01,Europe,Laptop Pro,Pierre Dupont,43,64500,4.7
+2024-03-12,Asia,Smartphone X,Hiroshi Tanaka,93,46500,4.6
+2024-04-05,North America,Tablet Ultra,Michael Brown,61,24400,4.5
+2024-04-22,Europe,Smart Watch,Anna Kowalski,109,21800,4.8
+2024-05-10,Asia,Laptop Pro,Li Wei,57,85500,4.9
+2024-05-25,North America,Smartphone X,David Miller,79,39500,4.6
+2024-06-08,Europe,Tablet Ultra,Sophie Martin,74,29600,4.7
+2024-06-20,Asia,Smart Watch,Ken Yamamoto,125,25000,4.5 

@@ -24,7 +24,7 @@ load_dotenv()
 # 获取 OpenAI API 的 base URL
 base_url = "https://api.deepseek.com"
 api_key = os.getenv("DEEPSEEK_API_KEY")
-model_name = "deepseek-reasoner"
+model_name = "deepseek-chat"
 
 llm = ChatOpenAI(base_url=base_url,
                  model=model_name,
@@ -184,7 +184,7 @@ if __name__ == "__main__":
     # 示例调用
     result = agent.run({
         "input": """
-        使用 /root/work/llm-notebook/data/07/sales_data.csv 文件创建一个销售分析PPT，包括以下内容：
+        使用 /home/kk/Github/DeepSeek-LangChain-Cookbook/sales_data1.csv 文件创建一个销售分析PPT，包括以下内容：
         1. 按月份绘制销售额的折线图
         2. 分析销售额最高的日期
         3. 按产品类别绘制销售额的柱状图
