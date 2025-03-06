@@ -184,7 +184,7 @@ if __name__ == "__main__":
     # 示例调用
     result = agent.run({
         "input": """
-        使用 /home/kk/Github/DeepSeek-LangChain-Cookbook/sales_data1.csv 文件创建一个销售分析PPT，包括以下内容：
+        使用 ./sales_data1.csv 文件创建一个销售分析PPT，包括以下内容：
         1. 按月份绘制销售额的折线图
         2. 分析销售额最高的日期
         3. 按产品类别绘制销售额的柱状图
